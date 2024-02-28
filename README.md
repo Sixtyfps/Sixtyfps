@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![image](https://www.codewars.com/users/Seveneleven/badges/large)](https://www.codewars.com/users/Seveneleven)
+[![image](https://www.codewars.com/users/Jurij_K/badges/small)](https://www.codewars.com/users/Seveneleven)
